@@ -1,1 +1,1 @@
-These are the changes made online which will be available locally when we use git pull command
+These are the changes made locally will be pushed online
